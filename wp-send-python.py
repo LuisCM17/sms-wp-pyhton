@@ -1,7 +1,7 @@
 import pywhatkit
 
 # Número de teléfono
-phone_number = "+59165132164"
+phone_number = "+591XXXXXXX"
 
 # Lista de números de teléfono (añadir)
 contacts = []
@@ -13,7 +13,7 @@ minute = 00
 
 # Mensaje a enviar
 message = "¡Saludos, miembros de SPE UMSA Chapter! Es ese momento del año para renovar tu compromiso con la excelencia y el desarrollo profesional. ¡No te pierdas los beneficios y oportunidades que te ofrece tu membresía SPE! Renueva hoy y sigue siendo parte de nuestra comunidad apasionada y en crecimiento. ¡Te esperamos!"
-img_to_send = "D://renew_members.jpg"
+
 
 # Enviar el mensaje 
 # pywhatkit.sendwhatmsg(phone_number, message, 15)
